@@ -48,8 +48,8 @@
             <nil key="simulatedStatusBarMetrics"/>
             <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
             <connections>
+                <outlet property="dropDownImage" destination="vfl-h5-1gb" id="19c-KG-Yke"/>
                 <outlet property="optionLabel" destination="dhL-pA-i6q" id="1GT-db-EaA"/>
-                <outlet property="popUpImage" destination="vfl-h5-1gb" id="XHf-4K-Nkd"/>
             </connections>
             <point key="canvasLocation" x="-17.39130434782609" y="1.3392857142857142"/>
         </view>
